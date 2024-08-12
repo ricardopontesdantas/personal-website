@@ -1,2 +1,3 @@
-# personal-website
-This repository is for my personal website
+# Personal Website
+
+This repository is for my personal website: [ricardodantas.dev](https://ricardodantas.dev)
