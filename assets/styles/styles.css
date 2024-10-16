@@ -1,21 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
 
 body {
-  background-color: #151417;
-  color: #e0e0e0;
+  background-color: #ffffff;
+  color: #333333;
   font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
 }
 
 a {
-  color: #e0e0e0;
+  color: #6a1b9a;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #bb86fc;
+  color: #3a0f73;
 }
 
 .profile img {
@@ -32,11 +32,12 @@ header {
 
 .profile h1 {
   margin: 10px 0;
-  color: #bb86fc;
+  color: #6a1b9a;
 }
 
 .profile p {
   margin: 5px 0;
+  color: #555555;
 }
 
 /* Navigation */
@@ -78,7 +79,7 @@ section {
 }
 
 .posts-container article {
-  background-color: #1f1b24;
+  background-color: #f0f0f0;
   padding: 20px;
   margin: 10px;
   border-radius: 10px;
@@ -88,12 +89,13 @@ section {
 
 .posts-container article h3 {
   margin-top: 0;
+  color: #333333;
 }
 
 .posts-container article a {
   display: block;
   margin-top: 10px;
-  color: #bb86fc;
+  color: #6a1b9a;
 }
 
 /* Links */
@@ -105,14 +107,14 @@ section {
 
 /* Footer */
 footer {
-  background-color: #1f1b24;
+  background-color: #f0f0f0;
   padding: 20px;
   text-align: center;
 }
 
 #footer-info,
 footer nav {
-  background-color: #1f1b24;
+  background-color: #f0f0f0;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 20px;
